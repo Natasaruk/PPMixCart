@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-10T21:42:45.879Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36" etag="AWclvbHRZcpVAD-D45kW" version="14.7.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-10T21:44:32.919Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36" etag="QrHujjImk_Mb5tB9G6on" version="14.7.7" type="github">
   <diagram name="Page-1" id="03018318-947c-dd8e-b7a3-06fadd420f32">
     <mxGraphModel dx="1219" dy="644" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
@@ -107,13 +107,13 @@
           <mxGeometry x="740" y="299" width="150" height="40" as="geometry" />
         </mxCell>
         <mxCell id="wdpsz7SIbts_I8NSBxIE-50" value="Добавить продукт" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.window;align=left;verticalAlign=top;spacingLeft=8;strokeColor2=#CCCCCC;strokeColor3=#c4c4c4;fontColor=#666666;mainText=;fontSize=17;labelBackgroundColor=none;gradientColor=none;connectable=1;recursiveResize=1;" vertex="1" parent="1">
-          <mxGeometry x="40" y="400" width="550" height="380" as="geometry" />
+          <mxGeometry x="40" y="400" width="380" height="330" as="geometry" />
         </mxCell>
         <mxCell id="wdpsz7SIbts_I8NSBxIE-51" value="Новый продукт" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=left;" vertex="1" parent="1">
           <mxGeometry x="60" y="450" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="wdpsz7SIbts_I8NSBxIE-52" value="" style="shape=line;strokeColor=#ddeeff;strokeWidth=2;html=1;resizeWidth=1;align=left;" vertex="1" parent="1">
-          <mxGeometry x="50" y="490" width="530" height="10" as="geometry" />
+          <mxGeometry x="50" y="490" width="350" height="10" as="geometry" />
         </mxCell>
         <UserObject label="Цена за единицу" placeholders="1" name="Variable" id="wdpsz7SIbts_I8NSBxIE-53">
           <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;fontSize=15;" vertex="1" parent="1">
@@ -146,6 +146,9 @@
         </mxCell>
         <mxCell id="wdpsz7SIbts_I8NSBxIE-62" value="Кг" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.comboBox;strokeColor=#999999;fillColor=#ddeeff;align=left;fillColor2=#E6E6E6;mainText=;fontColor=#666666;fontSize=17;spacingLeft=3;labelBackgroundColor=none;sketch=0;" vertex="1" parent="1">
           <mxGeometry x="242.5" y="610" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wdpsz7SIbts_I8NSBxIE-63" value="Добавить" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;align=center;" vertex="1" parent="1">
+          <mxGeometry x="60" y="660" width="125" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
