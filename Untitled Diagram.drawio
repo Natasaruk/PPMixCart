@@ -1,33 +1,42 @@
-<mxfile host="app.diagrams.net" modified="2021-06-10T20:55:45.926Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36" etag="Hlrpcsj4cmBBrCsZBn8o" version="14.7.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-10T21:03:50.975Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36" etag="t4MCiZAa4SZBjkdRUQZS" version="14.7.7" type="github">
   <diagram name="Page-1" id="03018318-947c-dd8e-b7a3-06fadd420f32">
     <mxGraphModel dx="1219" dy="644" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="wdpsz7SIbts_I8NSBxIE-1" value="Авторизация&lt;br&gt;" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.window;align=left;verticalAlign=top;spacingLeft=8;strokeColor2=#008cff;strokeColor3=#c4c4c4;mainText=;fontSize=17;labelBackgroundColor=none;" vertex="1" parent="1">
-          <mxGeometry x="40" y="30" width="280" height="380" as="geometry" />
+          <mxGeometry x="40" y="30" width="280" height="350" as="geometry" />
         </mxCell>
-        <mxCell id="wdpsz7SIbts_I8NSBxIE-2" value="" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.text.textBox;fontColor=#666666;align=left;fontSize=17;spacingLeft=4;spacingTop=-3;strokeColor=#666666;mainText=;gradientColor=none;" vertex="1" parent="1">
-          <mxGeometry x="60" y="180" width="240" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="wdpsz7SIbts_I8NSBxIE-3" value="" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.text.textBox;fontColor=#666666;align=left;fontSize=17;spacingLeft=4;spacingTop=-3;strokeColor=#666666;mainText=;gradientColor=none;" vertex="1" parent="1">
-          <mxGeometry x="60" y="255" width="240" height="30" as="geometry" />
+        <mxCell id="wdpsz7SIbts_I8NSBxIE-2" value="Amperiadmin" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.text.textBox;fontColor=#666666;align=left;fontSize=17;spacingLeft=4;spacingTop=-3;strokeColor=#666666;mainText=;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="60" y="170" width="240" height="30" as="geometry" />
         </mxCell>
         <UserObject label="Логин" placeholders="1" name="Variable" id="wdpsz7SIbts_I8NSBxIE-6">
           <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;fontSize=15;" vertex="1" parent="1">
-            <mxGeometry x="60" y="154" width="80" height="20" as="geometry" />
+            <mxGeometry x="50" y="130" width="80" height="20" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="Пароль" placeholders="1" name="Variable" id="wdpsz7SIbts_I8NSBxIE-7">
           <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;fontSize=15;" vertex="1" parent="1">
-            <mxGeometry x="60" y="230" width="80" height="20" as="geometry" />
+            <mxGeometry x="60" y="220" width="80" height="20" as="geometry" />
           </mxCell>
         </UserObject>
         <mxCell id="wdpsz7SIbts_I8NSBxIE-8" value="Войти" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.buttons.button;strokeColor=#666666;fontColor=#ffffff;mainText=;buttonStyle=round;fontSize=17;fontStyle=1;fillColor=#008cff;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="105" y="320" width="150" height="50" as="geometry" />
+          <mxGeometry x="105" y="310" width="150" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="wdpsz7SIbts_I8NSBxIE-9" value="Вход" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
-          <mxGeometry x="130" y="90" width="100" height="40" as="geometry" />
+        <mxCell id="wdpsz7SIbts_I8NSBxIE-9" value="Войти" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+          <mxGeometry x="50" y="70" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="wdpsz7SIbts_I8NSBxIE-11" value="Регистрация" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.window;align=left;verticalAlign=top;spacingLeft=8;strokeColor2=#008cff;strokeColor3=#c4c4c4;fontColor=#666666;mainText=;fontSize=17;labelBackgroundColor=none;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="350" y="30" width="550" height="380" as="geometry" />
+        </mxCell>
+        <mxCell id="wdpsz7SIbts_I8NSBxIE-12" value="Регистрация" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+          <mxGeometry x="585" y="90" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="wdpsz7SIbts_I8NSBxIE-25" value="" style="shape=line;strokeColor=#ddeeff;strokeWidth=2;html=1;resizeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="110" width="260" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="wdpsz7SIbts_I8NSBxIE-27" value="****" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.pwField;strokeColor=#999999;mainText=;align=left;fontColor=#666666;fontSize=17;spacingLeft=3;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="60" y="250" width="240" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
