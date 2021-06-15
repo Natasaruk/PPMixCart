@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-06-15T09:08:52.784Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.101 Safari/537.36" etag="8gJDW1q6VXPauy0hldN3" version="14.7.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-15T09:15:14.616Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.101 Safari/537.36" etag="8ufd4KZe0bF-89VgvsMD" version="14.7.8" type="github">
   <diagram name="Page-1" id="03018318-947c-dd8e-b7a3-06fadd420f32">
-    <mxGraphModel dx="2595" dy="1368" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="1483" dy="781" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -315,7 +315,7 @@
         <mxCell id="wdpsz7SIbts_I8NSBxIE-145" value="Добавить продукт" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;align=center;" parent="1" vertex="1">
           <mxGeometry x="602" y="897" width="125" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="wdpsz7SIbts_I8NSBxIE-146" value="Изменить" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;align=center;" parent="1" vertex="1">
+        <mxCell id="wdpsz7SIbts_I8NSBxIE-146" value="Сохранить изменения" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;align=center;" parent="1" vertex="1">
           <mxGeometry x="458" y="897" width="125" height="45" as="geometry" />
         </mxCell>
         <mxCell id="wdpsz7SIbts_I8NSBxIE-148" value="Удалить" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;align=center;" parent="1" vertex="1">
@@ -407,7 +407,7 @@
         <mxCell id="wdpsz7SIbts_I8NSBxIE-184" value="Зарегистрировать пользователя" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;align=center;" parent="1" vertex="1">
           <mxGeometry x="1572" y="447" width="158" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="wdpsz7SIbts_I8NSBxIE-185" value="Изменить" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;align=center;" parent="1" vertex="1">
+        <mxCell id="wdpsz7SIbts_I8NSBxIE-185" value="Сохранить изменения" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;align=center;" parent="1" vertex="1">
           <mxGeometry x="1428" y="447" width="125" height="45" as="geometry" />
         </mxCell>
         <mxCell id="wdpsz7SIbts_I8NSBxIE-186" value="Удалить" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;align=center;" parent="1" vertex="1">
