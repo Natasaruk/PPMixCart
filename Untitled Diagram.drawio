@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-06-16T06:37:31.771Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.101 Safari/537.36" etag="ubSka1GCta4vXjA7hrlX" version="14.7.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-16T06:44:15.202Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.101 Safari/537.36" etag="7EwPCpIDzuzASEPpqVZ7" version="14.7.8" type="github">
   <diagram name="Page-1" id="03018318-947c-dd8e-b7a3-06fadd420f32">
-    <mxGraphModel dx="3460" dy="1823" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="1730" dy="912" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -849,6 +849,19 @@
         <mxCell id="Ubrf8na9694s0_veglSw-166" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=15;" vertex="1" connectable="0" parent="Ubrf8na9694s0_veglSw-165">
           <mxGeometry x="-0.0378" y="2" relative="1" as="geometry">
             <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ubrf8na9694s0_veglSw-169" value="к форме калькуляции" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=15;" vertex="1" connectable="0" parent="Ubrf8na9694s0_veglSw-165">
+          <mxGeometry x="-0.0286" relative="1" as="geometry">
+            <mxPoint x="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ubrf8na9694s0_veglSw-167" value="к форме&lt;br&gt;с блюдами" style="whiteSpace=wrap;html=1;shape=partialRectangle;top=0;left=0;bottom=1;right=0;points=[[0,1],[1,1]];fillColor=none;align=center;verticalAlign=bottom;routingCenterY=0.5;snapToPoint=1;recursiveResize=0;autosize=1;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};fontSize=15;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="2715" y="990" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Ubrf8na9694s0_veglSw-168" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;fontSize=15;" edge="1" target="Ubrf8na9694s0_veglSw-167" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2680" y="950" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
       </root>
