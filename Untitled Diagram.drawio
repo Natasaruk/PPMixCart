@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-06-16T06:44:15.202Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.101 Safari/537.36" etag="7EwPCpIDzuzASEPpqVZ7" version="14.7.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-16T07:03:32.086Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.101 Safari/537.36" etag="8fPDQ8MVzbGfR84WFa86" version="14.7.8" type="github">
   <diagram name="Page-1" id="03018318-947c-dd8e-b7a3-06fadd420f32">
-    <mxGraphModel dx="1730" dy="912" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="2595" dy="1368" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -818,20 +818,17 @@
         <mxCell id="Ubrf8na9694s0_veglSw-157" value="ххх Кг" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" vertex="1" parent="1">
           <mxGeometry x="1808" y="949" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="Ubrf8na9694s0_veglSw-158" value="Добавить блюдо" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;align=center;" vertex="1" parent="1">
-          <mxGeometry x="1656" y="1090" width="92" height="45" as="geometry" />
-        </mxCell>
         <mxCell id="Ubrf8na9694s0_veglSw-159" value="Сохранить изменения" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;align=center;" vertex="1" parent="1">
           <mxGeometry x="1553" y="1090" width="92" height="45" as="geometry" />
         </mxCell>
         <mxCell id="Ubrf8na9694s0_veglSw-160" value="Удалить" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;align=center;" vertex="1" parent="1">
-          <mxGeometry x="1450" y="1090" width="92" height="45" as="geometry" />
+          <mxGeometry x="1658" y="1090" width="92" height="45" as="geometry" />
         </mxCell>
         <mxCell id="Ubrf8na9694s0_veglSw-161" value="Позволяет &lt;br&gt;удалить&lt;br&gt;продукт" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.text.callout;linkText=;textSize=17;textColor=#666666;callDir=SW;callStyle=line;fontSize=17;fontColor=#666666;align=left;verticalAlign=bottom;strokeColor=#666666;rounded=0;labelBackgroundColor=none;sketch=0;gradientColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1300" y="1123" width="160" height="100" as="geometry" />
+          <mxGeometry x="1553" y="1130" width="160" height="100" as="geometry" />
         </mxCell>
         <mxCell id="Ubrf8na9694s0_veglSw-162" value="позволяет&amp;nbsp;&lt;br&gt;сохранить&lt;br&gt;изменения" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.text.callout;linkText=;textSize=17;textColor=#666666;callDir=SW;callStyle=line;fontSize=17;fontColor=#666666;align=left;verticalAlign=bottom;strokeColor=#666666;rounded=0;labelBackgroundColor=none;sketch=0;gradientColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1430" y="1123" width="200" height="120" as="geometry" />
+          <mxGeometry x="1363" y="1130" width="200" height="120" as="geometry" />
         </mxCell>
         <mxCell id="Ubrf8na9694s0_veglSw-163" value="Калькуляция" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;align=center;" vertex="1" parent="1">
           <mxGeometry x="1760" y="1090" width="110" height="45" as="geometry" />
@@ -862,6 +859,49 @@
         <mxCell id="Ubrf8na9694s0_veglSw-168" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;fontSize=15;" edge="1" target="Ubrf8na9694s0_veglSw-167" parent="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="2680" y="950" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ubrf8na9694s0_veglSw-172" value="Можно &lt;br&gt;вписывать&amp;nbsp;&lt;br&gt;новые&amp;nbsp;&lt;br&gt;блюда" style="whiteSpace=wrap;html=1;shape=partialRectangle;top=0;left=0;bottom=1;right=0;points=[[0,1],[1,1]];fillColor=none;align=center;verticalAlign=bottom;routingCenterY=0.5;snapToPoint=1;recursiveResize=0;autosize=1;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};fontSize=15;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="1292.5" y="885" width="110" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Ubrf8na9694s0_veglSw-173" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;fontSize=15;" edge="1" target="Ubrf8na9694s0_veglSw-172" parent="1" source="Ubrf8na9694s0_veglSw-140">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1287.5" y="1015" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ubrf8na9694s0_veglSw-174" value="можно изменять&lt;br&gt;состав" style="whiteSpace=wrap;html=1;shape=partialRectangle;top=0;left=0;bottom=1;right=0;points=[[0,1],[1,1]];fillColor=none;align=center;verticalAlign=bottom;routingCenterY=0.5;snapToPoint=1;recursiveResize=0;autosize=1;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};fontSize=15;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="1930" y="940" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Ubrf8na9694s0_veglSw-175" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;fontSize=15;" edge="1" target="Ubrf8na9694s0_veglSw-174" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1840" y="985" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ubrf8na9694s0_veglSw-182" value="Таких продуктов нет" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.rrect;rSize=0;strokeColor=#666666;fontColor=#666666;fontSize=17;verticalAlign=top;whiteSpace=wrap;fillColor=#ffffff;spacingTop=32;" vertex="1" parent="1">
+          <mxGeometry x="1042.5" y="1180" width="250" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="Ubrf8na9694s0_veglSw-183" value="Ошибка" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.rrect;rSize=0;fontSize=17;fontColor=#666666;strokeColor=#666666;align=left;spacingLeft=8;fillColor=none;resizeWidth=1;" vertex="1" parent="Ubrf8na9694s0_veglSw-182">
+          <mxGeometry width="250" height="30" relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ubrf8na9694s0_veglSw-184" value="" style="shape=ellipse;strokeColor=#008cff;resizable=0;fillColor=none;html=1;" vertex="1" parent="Ubrf8na9694s0_veglSw-183">
+          <mxGeometry x="1" y="0.5" width="20" height="20" relative="1" as="geometry">
+            <mxPoint x="-25" y="-10" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ubrf8na9694s0_veglSw-185" value="OK" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.rrect;rSize=0;fontSize=16;fontColor=#666666;strokeColor=#c4c4c4;whiteSpace=wrap;fillColor=none;" vertex="1" parent="Ubrf8na9694s0_veglSw-182">
+          <mxGeometry x="0.75" y="1" width="90" height="25" relative="1" as="geometry">
+            <mxPoint x="-45" y="-33" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ubrf8na9694s0_veglSw-186" value="" style="edgeStyle=segmentEdgeStyle;endArrow=classic;html=1;fontSize=15;" edge="1" parent="1" source="Ubrf8na9694s0_veglSw-159">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1340" y="1080" as="sourcePoint" />
+            <mxPoint x="1250" y="1180" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ubrf8na9694s0_veglSw-187" value="если повар &lt;br&gt;вписал продукты,&amp;nbsp;&lt;br&gt;которых нет &lt;br&gt;на складе" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=15;" vertex="1" connectable="0" parent="Ubrf8na9694s0_veglSw-186">
+          <mxGeometry x="0.342" relative="1" as="geometry">
+            <mxPoint x="40" as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
