@@ -1,0 +1,54 @@
+create table role (
+	id_role int unsigned primary key auto_increment,
+	role_name varchar(20)
+);
+
+create table client(
+	id int unsigned primary key auto_increment,
+	name varchar (30),
+    surname varchar (30),
+    patronymic varchar(30),
+    login varchar(30),
+	pass varchar(30),
+	phone_number varchar(30),
+	role_id int unsigned,
+	unique index(role_id),
+	foreign key (role_id) references role(id_role)
+		on delete restrict
+		on update restrict	
+);
+
+create table unit (
+	id_unit int unsigned primary key auto_increment,
+	unit_name varchar(10)
+);
+
+create table dish (
+	id_dish int unsigned primary key auto_increment,
+	dish_name varchar(20) unique
+);
+
+create table product(
+	id_product int unsigned primary key auto_increment,
+	product_name varchar (30) unique,
+    quantity double unsigned,
+    price double unsigned,
+	unit_id int unsigned,
+	unique index(unit_id),
+	foreign key (unit_id) references unit(id_unit)
+		on delete restrict
+		on update restrict	
+);
+
+CREATE TABLE recipe(
+    product_id int unsigned,
+	unique index(product_id),
+	foreign key (product_id) references product(id_product)
+    ON DELETE SET NULL,
+    dish_id int unsigned,
+	index(dish_id),
+	foreign key (dish_id) references dish(id_dish)
+    ON DELETE CASCADE
+    ON UPDATE CASCADE,
+    amount_per_serving double
+);
