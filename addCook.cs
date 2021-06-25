@@ -189,7 +189,7 @@ namespace Амперия
                 MessageBox.Show(ex.Message, "Ошибка!", MessageBoxButtons.OK, MessageBoxIcon.Error);
             }
 
-            //else { MessageBox.Show("Блюдо не выбрвно", "Ошибка!"); }
+           
         }
 
 
